@@ -1,0 +1,14 @@
+body {
+    text-align:center;
+    font-family:'Roboto'
+}
+#container {
+    width:400px;
+}
+
+.winner {
+    color:green;
+}
+.loser { 
+    color:red;
+}
